@@ -18,7 +18,7 @@ dependencies {
 publishing {
     publications {
         gpr(MavenPublication) {
-            artifactId = "nom-de-la-teua-llibreria"
+            artifactId = "RamonLib"
             from(components.java)
         }
     }
